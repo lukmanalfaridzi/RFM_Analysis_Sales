@@ -1,1 +1,1 @@
-# RFM_Analysis_Sales
+RFM analysis is a customer segmentation technique that uses past purchase behavior to segment customers. It stands for Recency, Frequency, and Monetary Value. Recency refers to how recently a customer has made a purchase. Frequency refers to how often a customer makes a purchase. Monetary value refers to how much money a customer spends on average on each purchase.
